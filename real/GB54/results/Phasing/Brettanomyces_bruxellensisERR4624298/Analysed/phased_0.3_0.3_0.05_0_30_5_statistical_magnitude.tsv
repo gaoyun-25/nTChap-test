@@ -1,0 +1,55 @@
+chromosomes	statistical_magnitude	value
+NC_054682.1	Global Weighted Density	0.05358122331452146
+NC_054682.1	Weight Variance	0.04625063928834309
+NC_054682.1	Avg. Weighted Clustering Coefficient	0.5683454350714608
+NC_054682.1	Avg. Node Strength	74.85296897037773
+NC_054682.1	Number of Nodes	1398
+NC_054682.1	Number of Edges	68383
+NC_054683.1	Global Weighted Density	0.03147715501168199
+NC_054683.1	Weight Variance	0.05063056490263703
+NC_054683.1	Avg. Weighted Clustering Coefficient	0.540152851560144
+NC_054683.1	Avg. Node Strength	69.94223843595084
+NC_054683.1	Number of Nodes	2223
+NC_054683.1	Number of Edges	110024
+NC_054684.1	Global Weighted Density	0.02418090917954068
+NC_054684.1	Weight Variance	0.044661890004631756
+NC_054684.1	Avg. Weighted Clustering Coefficient	0.5725641809698679
+NC_054684.1	Avg. Node Strength	76.677663008324
+NC_054684.1	Number of Nodes	3172
+NC_054684.1	Number of Edges	155084
+NC_054685.1	Global Weighted Density	0.014874219776856063
+NC_054685.1	Weight Variance	0.051895452531978116
+NC_054685.1	Avg. Weighted Clustering Coefficient	0.4981862845366257
+NC_054685.1	Avg. Node Strength	74.93631923581793
+NC_054685.1	Number of Nodes	5039
+NC_054685.1	Number of Edges	281153
+NC_054686.1	Global Weighted Density	0.012624873736996693
+NC_054686.1	Weight Variance	0.0475753051396395
+NC_054686.1	Avg. Weighted Clustering Coefficient	0.5783854463372514
+NC_054686.1	Avg. Node Strength	75.26949722000735
+NC_054686.1	Number of Nodes	5963
+NC_054686.1	Number of Edges	293426
+NC_054687.1	Global Weighted Density	0.009410526895758503
+NC_054687.1	Weight Variance	0.04100919433436699
+NC_054687.1	Avg. Weighted Clustering Coefficient	0.5926459477130991
+NC_054687.1	Avg. Node Strength	73.88204665863739
+NC_054687.1	Number of Nodes	7852
+NC_054687.1	Number of Edges	362185
+NC_054688.1	Global Weighted Density	0.008501071721492953
+NC_054688.1	Weight Variance	0.05205308313198688
+NC_054688.1	Avg. Weighted Clustering Coefficient	0.5482006516012107
+NC_054688.1	Avg. Node Strength	77.41926016766624
+NC_054688.1	Number of Nodes	9108
+NC_054688.1	Number of Edges	487405
+NC_054689.1	Global Weighted Density	0.004234631325019091
+NC_054689.1	Weight Variance	0.04656932405142082
+NC_054689.1	Avg. Weighted Clustering Coefficient	0.5686820661350893
+NC_054689.1	Avg. Node Strength	73.33111065536593
+NC_054689.1	Number of Nodes	17318
+NC_054689.1	Number of Edges	839241
+NC_054690.1	Global Weighted Density	0.003366761928618478
+NC_054690.1	Weight Variance	0.050887874918918725
+NC_054690.1	Avg. Weighted Clustering Coefficient	0.524145748460356
+NC_054690.1	Avg. Node Strength	78.08194264849733
+NC_054690.1	Number of Nodes	23193
+NC_054690.1	Number of Edges	1286825

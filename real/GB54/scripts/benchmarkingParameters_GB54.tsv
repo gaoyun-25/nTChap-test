@@ -1,0 +1,12 @@
+mainPath	/home/gaoyun/poly/data/GB54
+longReads	ERR4624298
+shortReads	ERR4624299
+reference	speciesName:Brettanomyces_bruxellensis	refName:Brettanomyces_bruxellensis.fasta
+genomeSize	23000000
+threads	16
+max_ID	0.05
+min_len	0
+min_ovl	0.3
+min_sim	0.3
+min_overlap	30
+min_ovl_len	5

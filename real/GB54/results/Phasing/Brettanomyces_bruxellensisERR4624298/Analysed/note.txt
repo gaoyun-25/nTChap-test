@@ -1,0 +1,282 @@
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/phased_0.3_0.3_0.05_0_30_5_variants.tsv
+total pos: 162373
+unphased_het_positions: 144
+unphased rate(%) 0.08868469511556724
+phased_rates234(%): 99.35888355822703
+phased_rates3(%): 60.69789928128445
+cids numbers per chrs(len(clusters)/9): 21.0
+cids numbers per haplotype(len(clusters)/27): 7.0
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_filter_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.58843526941055
+phased_rates3(%): 60.98119761290363
+cids numbers per chrs(len(clusters)/9): 10.444444444444445
+cids numbers per haplotype(len(clusters)/27): 3.4814814814814814
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.2373916845781
+phased_rates3(%): 68.51570150209703
+cids numbers per chrs(len(clusters)/9): 10.444444444444445
+cids numbers per haplotype(len(clusters)/27): 3.4814814814814814
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/phased_0.3_0.3_0.05_0_30_5_variants.tsv
+total pos: 162373
+unphased_het_positions: 144
+unphased rate(%) 0.08868469511556724
+phased_rates234(%): 99.35888355822703
+phased_rates3(%): 60.69789928128445
+cids numbers per chrs(len(clusters)/9): 21.0
+cids numbers per haplotype(len(clusters)/27): 7.0
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f99/phased_0.3_0.3_0.05_0_30_5_cleaned_stitch_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.5009823061716
+phased_rates3(%): 61.202293484754236
+cids numbers per chrs(len(clusters)/9): 8.777777777777779
+cids numbers per haplotype(len(clusters)/27): 2.925925925925926
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f99/phased_0.3_0.3_0.05_0_30_5_cleaned_filter_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.58843526941055
+phased_rates3(%): 60.98119761290363
+cids numbers per chrs(len(clusters)/9): 10.444444444444445
+cids numbers per haplotype(len(clusters)/27): 3.4814814814814814
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.47265247300967
+phased_rates3(%): 68.71893726173687
+cids numbers per chrs(len(clusters)/9): 8.777777777777779
+cids numbers per haplotype(len(clusters)/27): 2.925925925925926
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/phased_0.3_0.3_0.05_0_30_5_variants.tsv
+total pos: 162373
+unphased_het_positions: 144
+unphased rate(%) 0.08868469511556724
+phased_rates234(%): 99.35888355822703
+phased_rates3(%): 60.69789928128445
+cids numbers per chrs(len(clusters)/9): 21.0
+cids numbers per haplotype(len(clusters)/27): 7.0
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_s99/phased_0.3_0.3_0.05_0_30_5_cleaned_stitch_variants.tsv
+total pos: 162373
+unphased_het_positions: 144
+unphased rate(%) 0.08868469511556724
+phased_rates234(%): 99.35642009447383
+phased_rates3(%): 60.49651111945952
+cids numbers per chrs(len(clusters)/9): 20.444444444444443
+cids numbers per haplotype(len(clusters)/27): 6.814814814814815
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_s99/phased_0.3_0.3_0.05_0_30_5_cleaned_filter_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.58781940347225
+phased_rates3(%): 60.79643783141285
+cids numbers per chrs(len(clusters)/9): 10.222222222222221
+cids numbers per haplotype(len(clusters)/27): 3.4074074074074074
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_s99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.57180688907638
+phased_rates3(%): 68.3395638437425
+cids numbers per chrs(len(clusters)/9): 10.222222222222221
+cids numbers per haplotype(len(clusters)/27): 3.4074074074074074
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/phased_0.3_0.3_0.05_0_30_5_variants.tsv
+total pos: 162373
+unphased_het_positions: 144
+unphased rate(%) 0.08868469511556724
+phased_rates234(%): 99.35888355822703
+phased_rates3(%): 60.69789928128445
+cids numbers per chrs(len(clusters)/9): 21.0
+cids numbers per haplotype(len(clusters)/27): 7.0
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_filter_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.58843526941055
+phased_rates3(%): 60.98119761290363
+cids numbers per chrs(len(clusters)/9): 10.444444444444445
+cids numbers per haplotype(len(clusters)/27): 3.4814814814814814
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.2373916845781
+phased_rates3(%): 68.51570150209703
+cids numbers per chrs(len(clusters)/9): 10.444444444444445
+cids numbers per haplotype(len(clusters)/27): 3.4814814814814814
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/phased_0.3_0.3_0.05_0_30_5_variants.tsv
+NC_054682.1	13
+NC_054683.1	12
+NC_054684.1	8
+NC_054685.1	14
+NC_054686.1	15
+NC_054687.1	7
+NC_054688.1	20
+NC_054689.1	38
+NC_054690.1	62
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_filter_variants.tsv
+NC_054682.1	5
+NC_054683.1	5
+NC_054684.1	5
+NC_054685.1	9
+NC_054686.1	10
+NC_054687.1	6
+NC_054688.1	8
+NC_054689.1	13
+NC_054690.1	33
+/home/gaoyun/poly/data/GB54/Phasing_vcf/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+NC_054682.1	5
+NC_054683.1	5
+NC_054684.1	5
+NC_054685.1	9
+NC_054686.1	10
+NC_054687.1	6
+NC_054688.1	8
+NC_054689.1	13
+NC_054690.1	33
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/phased_0.3_0.3_0.05_0_30_5_variants.tsv
+total pos: 162373
+unphased_het_positions: 144
+unphased rate(%) 0.08868469511556724
+phased_rates234(%): 99.35888355822703
+phased_rates3(%): 60.69789928128445
+cids numbers per chrs(len(clusters)/9): 21.0
+cids numbers per haplotype(len(clusters)/27): 7.0
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.2373916845781
+phased_rates3(%): 68.51570150209703
+cids numbers per chrs(len(clusters)/9): 10.444444444444445
+cids numbers per haplotype(len(clusters)/27): 3.4814814814814814
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+NC_054682.1	5
+NC_054683.1	5
+NC_054684.1	5
+NC_054685.1	9
+NC_054686.1	10
+NC_054687.1	6
+NC_054688.1	8
+NC_054689.1	13
+NC_054690.1	33
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/phased_0.3_0.3_0.05_0_30_5_variants.tsv
+total pos: 162373
+unphased_het_positions: 144
+unphased rate(%) 0.08868469511556724
+phased_rates234(%): 99.35888355822703
+phased_rates3(%): 60.69789928128445
+cids numbers per chrs(len(clusters)/9): 21.0
+cids numbers per haplotype(len(clusters)/27): 7.0
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.2373916845781
+phased_rates3(%): 68.51570150209703
+cids numbers per chrs(len(clusters)/9): 10.444444444444445
+cids numbers per haplotype(len(clusters)/27): 3.4814814814814814
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+NC_054682.1	5
+NC_054683.1	5
+NC_054684.1	5
+NC_054685.1	9
+NC_054686.1	10
+NC_054687.1	6
+NC_054688.1	8
+NC_054689.1	13
+NC_054690.1	33
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/phased_0.3_0.3_0.05_0_30_5_variants.tsv
+total pos: 162373
+unphased_het_positions: 144
+unphased rate(%) 0.08868469511556724
+phased_rates234(%): 99.35888355822703
+phased_rates3(%): 60.69789928128445
+cids numbers per chrs(len(clusters)/9): 21.0
+cids numbers per haplotype(len(clusters)/27): 7.0
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.2373916845781
+phased_rates3(%): 68.51570150209703
+cids numbers per chrs(len(clusters)/9): 10.444444444444445
+cids numbers per haplotype(len(clusters)/27): 3.4814814814814814
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+NC_054682.1	5
+NC_054683.1	5
+NC_054684.1	5
+NC_054685.1	9
+NC_054686.1	10
+NC_054687.1	6
+NC_054688.1	8
+NC_054689.1	13
+NC_054690.1	33
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/phased_0.3_0.3_0.05_0_30_5_variants.tsv
+total pos: 162373
+unphased_het_positions: 144
+unphased rate(%) 0.08868469511556724
+phased_rates234(%): 99.35888355822703
+phased_rates3(%): 60.69789928128445
+cids numbers per chrs(len(clusters)/9): 21.0
+cids numbers per haplotype(len(clusters)/27): 7.0
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.2373916845781
+phased_rates3(%): 68.51570150209703
+cids numbers per chrs(len(clusters)/9): 10.444444444444445
+cids numbers per haplotype(len(clusters)/27): 3.4814814814814814
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+NC_054682.1	5
+NC_054683.1	5
+NC_054684.1	5
+NC_054685.1	9
+NC_054686.1	10
+NC_054687.1	6
+NC_054688.1	8
+NC_054689.1	13
+NC_054690.1	33
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.23123302519508
+phased_rates3(%): 68.2219334495267
+cids numbers per chrs(len(clusters)/9): 10.444444444444445
+cids numbers per haplotype(len(clusters)/27): 3.4814814814814814
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+NC_054682.1	5
+NC_054683.1	5
+NC_054684.1	5
+NC_054685.1	9
+NC_054686.1	10
+NC_054687.1	6
+NC_054688.1	8
+NC_054689.1	13
+NC_054690.1	33
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+total pos: 162373
+unphased_het_positions: 791
+unphased rate(%) 0.48714995719731735
+phased_rates234(%): 98.2373916845781
+phased_rates3(%): 68.51570150209703
+cids numbers per chrs(len(clusters)/9): 10.444444444444445
+cids numbers per haplotype(len(clusters)/27): 3.4814814814814814
+/home/gaoyun/poly/data/GB54/Phasing/Brettanomyces_bruxellensisERR4624298/Phased/Cleaned_chr_f_d_99/phased_0.3_0.3_0.05_0_30_5_cleaned_dup_variants.tsv
+NC_054682.1	5
+NC_054683.1	5
+NC_054684.1	5
+NC_054685.1	9
+NC_054686.1	10
+NC_054687.1	6
+NC_054688.1	8
+NC_054689.1	13
+NC_054690.1	33

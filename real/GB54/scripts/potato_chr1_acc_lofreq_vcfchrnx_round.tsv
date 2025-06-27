@@ -1,0 +1,301 @@
+tools	ploidy	heterozygosityRates	coverage	accuracy	error rate	missing rate	reads accuracy rate	nHaplotigs per haplotype	nHaplotigs	nHaplotypes
+nTChap	3	3	10	99.88	0.11	0.01	100	1.7	5	3
+nTChap	3	3	15	99.92	0.07	0.01	99.93	1	3	3
+nTChap	3	3	20	99.92	0.07	0.01	99.97	1	3	3
+nTChap	4	3	10	99.88	0.11	0.01	99.95	1.3	5	4
+nTChap	4	3	15	99.91	0.08	0.01	99.96	1	4	4
+nTChap	4	3	20	99.92	0.07	0.01	99.92	1	4	4
+nTChap	5	3	10	99.84	0.15	0.01	99.83	1.6	8	5
+nTChap	5	3	15	99.92	0.08	0.01	99.88	1	5	5
+nTChap	5	3	20	99.93	0.07	0.01	99.87	1	5	5
+nTChap	6	3	10	99.86	0.12	0.01	99.84	1.7	10	6
+nTChap	6	3	15	99.93	0.06	0.01	99.82	1	6	6
+nTChap	6	3	20	99.95	0.05	0	99.82	1	6	6
+nTChap	7	3	10	99.85	0.14	0.01	99.72	1.3	9	7
+nTChap	7	3	15	99.92	0.07	0.01	99.79	1	7	7
+nTChap	7	3	20	99.93	0.07	0	99.76	1	7	7
+nTChap	8	3	10	99.9	0.09	0.01	99.76	1.1	9	8
+nTChap	8	3	15	99.94	0.06	0.01	99.76	1	8	8
+nTChap	8	3	20	99.95	0.05	0	99.74	1	8	8
+nTChap	9	3	10	99.85	0.13	0.03	99.67	1.3	12	9
+nTChap	9	3	15	99.93	0.06	0.01	99.65	1	9	9
+nTChap	9	3	20	99.94	0.05	0	99.67	1	9	9
+nTChap	10	3	10	99.87	0.1	0.03	99.63	1.2	12	10
+nTChap	10	3	15	99.93	0.07	0	99.62	1	10	10
+nTChap	10	3	20	99.95	0.05	0	99.68	1	10	10
+nTChap	11	3	10	99.85	0.12	0.02	99.62	1.5	16	11
+nTChap	11	3	15	99.93	0.07	0.01	99.62	1	11	11
+nTChap	11	3	20	99.93	0.07	0	99.65	1	11	11
+nTChap	12	3	10	99.86	0.12	0.02	99.54	1.3	16	12
+nTChap	12	3	15	99.92	0.07	0.01	99.59	1	12	12
+nTChap	12	3	20	99.93	0.06	0.01	99.56	1	12	12
+nTChap	3	1	10	99.9	0.08	0.01	99.89	4.3	13	3
+nTChap	3	1	15	99.94	0.05	0.01	99.94	1.3	4	3
+nTChap	3	1	20	99.94	0.05	0	99.93	1	3	3
+nTChap	4	1	10	99.89	0.1	0.01	99.79	3.8	15	4
+nTChap	4	1	15	99.94	0.06	0	99.73	1	4	4
+nTChap	4	1	20	99.95	0.05	0	99.77	1	4	4
+nTChap	5	1	10	99.86	0.11	0.02	99.58	4.4	22	5
+nTChap	5	1	15	99.93	0.06	0.01	99.6	1.4	7	5
+nTChap	5	1	20	99.95	0.05	0	99.63	1	5	5
+nTChap	6	1	10	99.88	0.11	0.01	99.41	4.8	29	6
+nTChap	6	1	15	99.94	0.06	0	99.27	1.2	7	6
+nTChap	6	1	20	99.96	0.04	0	99.38	1	6	6
+nTChap	7	1	10	99.87	0.12	0.02	99.15	3	21	7
+nTChap	7	1	15	99.94	0.06	0	99.19	1.3	9	7
+nTChap	7	1	20	99.95	0.04	0.01	99.15	1	7	7
+nTChap	8	1	10	99.83	0.13	0.04	98.98	3.9	31	8
+nTChap	8	1	15	99.95	0.04	0.01	98.91	1.1	9	8
+nTChap	8	1	20	99.97	0.03	0	98.92	1	8	8
+nTChap	9	1	10	99.78	0.12	0.09	98.91	4.1	37	9
+nTChap	9	1	15	99.96	0.04	0	98.92	1.2	11	9
+nTChap	9	1	20	99.97	0.03	0	98.88	1	9	9
+nTChap	10	1	10	99.86	0.09	0.04	98.58	3.2	32	10
+nTChap	10	1	15	99.94	0.05	0	98.68	1.1	11	10
+nTChap	10	1	20	99.96	0.04	0	98.62	1	10	10
+nTChap	11	1	10	99.9	0.09	0.02	98.5	2.7	30	11
+nTChap	11	1	15	99.95	0.04	0	98.55	1	11	11
+nTChap	11	1	20	99.96	0.04	0	98.54	1	11	11
+nTChap	12	1	10	99.84	0.11	0.04	98.24	3.1	37	12
+nTChap	12	1	15	99.95	0.05	0	98.32	1.3	16	12
+nTChap	12	1	20	99.96	0.03	0	98.27	1	12	12
+nTChap	3	0.3	10	99.8	0.2	0	99.66	21.7	65	3
+nTChap	3	0.3	15	99.94	0.06	0	99.77	10	30	3
+nTChap	3	0.3	20	99.98	0.02	0.01	99.8	3.7	11	3
+nTChap	4	0.3	10	99.62	0.33	0.05	99.04	23.8	95	4
+nTChap	4	0.3	15	99.9	0.1	0	99.09	9.8	39	4
+nTChap	4	0.3	20	99.94	0.06	0	99.16	4.8	19	4
+nTChap	5	0.3	10	99.52	0.38	0.1	98.09	23	115	5
+nTChap	5	0.3	15	99.88	0.12	0	98.37	11	55	5
+nTChap	5	0.3	20	99.94	0.06	0	98.24	4.6	23	5
+nTChap	6	0.3	10	99.64	0.35	0.01	97.81	22.5	135	6
+nTChap	6	0.3	15	99.84	0.16	0	97.77	12.8	77	6
+nTChap	6	0.3	20	99.9	0.09	0.01	97.43	4.8	29	6
+nTChap	7	0.3	10	99.52	0.39	0.09	97.12	23.7	166	7
+nTChap	7	0.3	15	99.79	0.2	0.01	97.14	11.6	81	7
+nTChap	7	0.3	20	99.74	0.25	0	96.68	6.4	45	7
+nTChap	8	0.3	10	99.09	0.7	0.21	94.95	26.1	209	8
+nTChap	8	0.3	15	99.78	0.21	0.01	95.65	13.6	109	8
+nTChap	8	0.3	20	99.92	0.08	0	95.73	7	56	8
+nTChap	9	0.3	10	99.38	0.49	0.12	95.17	24.2	218	9
+nTChap	9	0.3	15	98.53	0.59	0.88	95.04	11	99	9
+nTChap	9	0.3	20	99.91	0.09	0.01	95.65	5.4	49	9
+nTChap	10	0.3	10	98.5	0.84	0.66	94.15	22.8	228	10
+nTChap	10	0.3	15	99.32	0.39	0.29	94.71	8.4	84	10
+nTChap	10	0.3	20	99.9	0.09	0	95.1	6.9	69	10
+nTChap	11	0.3	10	98.62	0.82	0.56	93.64	27.7	305	11
+nTChap	11	0.3	15	99.26	0.45	0.3	93.62	14.5	160	11
+nTChap	11	0.3	20	99.84	0.15	0.01	94.3	9.1	100	11
+nTChap	12	0.3	10	98.93	0.7	0.36	92.72	23.4	281	12
+nTChap	12	0.3	15	99.57	0.29	0.13	93.35	14.1	169	12
+nTChap	12	0.3	20	99.9	0.1	0	93.12	6.6	79	12
+nTChap	3	0.1	10	98.37	0.89	0.75	98.71	34.7	104	3
+nTChap	3	0.1	15	99.66	0.32	0.01	99.33	26.3	79	3
+nTChap	3	0.1	20	99.74	0.26	0	99.21	20.7	62	3
+nTChap	4	0.1	10	98.15	0.94	0.9	96.6	37	148	4
+nTChap	4	0.1	15	99.56	0.44	0	97.49	27	108	4
+nTChap	4	0.1	20	99.68	0.32	0	97.99	21.5	86	4
+nTChap	5	0.1	10	97.04	1.72	1.24	94.25	38.8	194	5
+nTChap	5	0.1	15	98.87	0.69	0.43	95.02	30	150	5
+nTChap	5	0.1	20	98.94	0.72	0.34	94.68	23.6	118	5
+nTChap	6	0.1	10	95.19	2.16	2.65	91.14	38.5	231	6
+nTChap	6	0.1	15	98.9	0.73	0.37	93.78	26.2	157	6
+nTChap	6	0.1	20	98.72	0.83	0.45	93.16	25.3	152	6
+nTChap	7	0.1	10	95.97	1.95	2.08	90.49	36	252	7
+nTChap	7	0.1	15	97.87	1.17	0.96	90.33	26.7	187	7
+nTChap	7	0.1	20	97.92	1.23	0.85	90.47	21.6	151	7
+nTChap	8	0.1	10	94.7	2.35	2.95	86.88	35.8	286	8
+nTChap	8	0.1	15	98	1.23	0.78	89.15	27.1	217	8
+nTChap	8	0.1	20	98.36	0.79	0.85	88.91	22.4	179	8
+nTChap	9	0.1	10	94.61	2.66	2.74	85.53	34.6	311	9
+nTChap	9	0.1	15	96.71	2	1.28	86.88	29	261	9
+nTChap	9	0.1	20	97.21	1.56	1.23	86.53	23.8	214	9
+nTChap	10	0.1	10	94.61	2.18	3.21	84.06	33.7	337	10
+nTChap	10	0.1	15	96.68	1.92	1.4	85.56	26.4	264	10
+nTChap	10	0.1	20	96.46	1.74	1.8	84.7	22.4	224	10
+nTChap	11	0.1	10	93.53	2.43	4.04	80.73	35.7	393	11
+nTChap	11	0.1	15	95.24	2.2	2.56	81.79	27.6	304	11
+nTChap	11	0.1	20	96.41	1.88	1.71	81.9	26.1	287	11
+nTChap	12	0.1	10	92.05	3.2	4.75	79.51	33.5	402	12
+nTChap	12	0.1	15	96.55	1.82	1.63	80.82	27.6	331	12
+nTChap	12	0.1	20	96.39	1.84	1.78	80.47	24.8	297	12
+nTChap	3	0.05	10	96.01	1.8	2.19	98.56	54.3	163	3
+nTChap	3	0.05	15	97.41	1.49	1.1	97.71	36.7	110	3
+nTChap	3	0.05	20	99.13	0.62	0.25	98.69	31	93	3
+nTChap	4	0.05	10	96.68	2.08	1.24	95.17	53.8	215	4
+nTChap	4	0.05	15	97.82	0.82	1.36	95.05	30.5	122	4
+nTChap	4	0.05	20	99.31	0.57	0.12	96.34	26	104	4
+nTChap	5	0.05	10	94.09	1.8	4.12	91.03	48.4	242	5
+nTChap	5	0.05	15	96.9	1.39	1.72	92.5	34.8	174	5
+nTChap	5	0.05	20	96.52	1.84	1.64	91.24	27.6	138	5
+nTChap	6	0.05	10	92.24	2.6	5.16	85.83	48.3	290	6
+nTChap	6	0.05	15	93.09	2.36	4.55	86.25	34.3	206	6
+nTChap	6	0.05	20	96.06	1.42	2.52	87.88	26.3	158	6
+nTChap	7	0.05	10	88.43	2.56	9.01	81.85	45.6	319	7
+nTChap	7	0.05	15	91.96	2.33	5.71	83.01	35.9	251	7
+nTChap	7	0.05	20	93.99	1.93	4.08	82.51	28	196	7
+nTChap	8	0.05	10	85.72	2.94	11.34	78.41	37.9	303	8
+nTChap	8	0.05	15	91.75	2.09	6.16	80.85	32.5	260	8
+nTChap	8	0.05	20	93.22	1.67	5.11	79.37	28.3	226	8
+nTChap	9	0.05	10	84.99	2.63	12.38	76.73	38.2	344	9
+nTChap	9	0.05	15	90.66	2.67	6.67	77.17	34.3	309	9
+nTChap	9	0.05	20	90.27	2.49	7.23	76.61	26.3	237	9
+nTChap	10	0.05	10	85.87	3.52	10.61	73.33	39.1	391	10
+nTChap	10	0.05	15	88.04	3.48	8.48	74.57	34.5	345	10
+nTChap	10	0.05	20	89.75	3.21	7.04	74.27	28.4	284	10
+nTChap	11	0.05	10	81.78	4.52	13.7	69.15	35	385	11
+nTChap	11	0.05	15	86.36	3.32	10.31	70.69	29.8	328	11
+nTChap	11	0.05	20	89.75	3.65	6.6	71.49	25.4	279	11
+nTChap	12	0.05	10	81.53	3.09	15.38	66.39	36.7	440	12
+nTChap	12	0.05	15	87.03	3.76	9.21	68.97	30.1	361	12
+nTChap	12	0.05	20	85.81	4.28	9.91	66.43	25.8	309	12
+nTChap post-processing	3	3	10	99.89	0.1	0.01	100	1.3	4	3
+nTChap post-processing	3	3	15	99.92	0.07	0.01	99.93	1	3	3
+nTChap post-processing	3	3	20	99.92	0.07	0.01	99.97	1	3	3
+nTChap post-processing	4	3	10	99.86	0.13	0.01	99.95	1.3	5	4
+nTChap post-processing	4	3	15	99.91	0.08	0.01	99.96	1	4	4
+nTChap post-processing	4	3	20	99.92	0.07	0.01	99.92	1	4	4
+nTChap post-processing	5	3	10	99.85	0.13	0.01	99.83	1.6	8	5
+nTChap post-processing	5	3	15	99.92	0.08	0.01	99.88	1	5	5
+nTChap post-processing	5	3	20	99.93	0.07	0.01	99.87	1	5	5
+nTChap post-processing	6	3	10	99.42	0.47	0.1	99.36	1.2	7	6
+nTChap post-processing	6	3	15	99.93	0.06	0.01	99.82	1	6	6
+nTChap post-processing	6	3	20	99.95	0.05	0	99.82	1	6	6
+nTChap post-processing	7	3	10	99.46	0.53	0.01	99.39	1	7	7
+nTChap post-processing	7	3	15	99.92	0.07	0.01	99.79	1	7	7
+nTChap post-processing	7	3	20	99.93	0.07	0	99.76	1	7	7
+nTChap post-processing	8	3	10	99.87	0.1	0.03	99.76	1	8	8
+nTChap post-processing	8	3	15	99.94	0.06	0.01	99.76	1	8	8
+nTChap post-processing	8	3	20	99.95	0.05	0	99.74	1	8	8
+nTChap post-processing	9	3	10	99.85	0.12	0.03	99.67	1.3	12	9
+nTChap post-processing	9	3	15	99.93	0.06	0.01	99.65	1	9	9
+nTChap post-processing	9	3	20	99.94	0.05	0	99.67	1	9	9
+nTChap post-processing	10	3	10	99.86	0.11	0.03	99.63	1.2	12	10
+nTChap post-processing	10	3	15	99.93	0.06	0	99.62	1	10	10
+nTChap post-processing	10	3	20	99.95	0.05	0	99.68	1	10	10
+nTChap post-processing	11	3	10	99.87	0.11	0.02	99.62	1.5	16	11
+nTChap post-processing	11	3	15	99.93	0.07	0.01	99.62	1	11	11
+nTChap post-processing	11	3	20	99.93	0.06	0	99.65	1	11	11
+nTChap post-processing	12	3	10	99.08	0.37	0.55	99.2	1.2	14	12
+nTChap post-processing	12	3	15	99.93	0.07	0.01	99.59	1	12	12
+nTChap post-processing	12	3	20	99.93	0.06	0.01	99.56	1	12	12
+nTChap post-processing	3	1	10	96.55	1.07	2.38	98.15	4	12	3
+nTChap post-processing	3	1	15	99.94	0.05	0.01	99.94	1.3	4	3
+nTChap post-processing	3	1	20	99.95	0.05	0	99.93	1	3	3
+nTChap post-processing	4	1	10	99.37	0.61	0.01	99.43	3.3	13	4
+nTChap post-processing	4	1	15	99.94	0.05	0	99.73	1	4	4
+nTChap post-processing	4	1	20	99.95	0.05	0	99.77	1	4	4
+nTChap post-processing	5	1	10	98.44	0.54	1.02	99.23	3.4	17	5
+nTChap post-processing	5	1	15	99.57	0.21	0.22	99.44	1.2	6	5
+nTChap post-processing	5	1	20	99.95	0.05	0	99.63	1	5	5
+nTChap post-processing	6	1	10	98.67	0.22	1.11	99.3	4.3	26	6
+nTChap post-processing	6	1	15	99.94	0.06	0	99.27	1.2	7	6
+nTChap post-processing	6	1	20	99.95	0.04	0	99.38	1	6	6
+nTChap post-processing	7	1	10	98.71	0.13	1.17	99.15	2.1	15	7
+nTChap post-processing	7	1	15	99.94	0.06	0	99.19	1.3	9	7
+nTChap post-processing	7	1	20	99.95	0.04	0.01	99.15	1	7	7
+nTChap post-processing	8	1	10	98.34	0.68	0.98	98.35	3.1	25	8
+nTChap post-processing	8	1	15	99.96	0.04	0.01	98.91	1	8	8
+nTChap post-processing	8	1	20	99.96	0.03	0	98.92	1	8	8
+nTChap post-processing	9	1	10	98.1	0.89	1.01	98.31	3.8	34	9
+nTChap post-processing	9	1	15	99.96	0.04	0	98.92	1.2	11	9
+nTChap post-processing	9	1	20	99.97	0.03	0	98.88	1	9	9
+nTChap post-processing	10	1	10	99.19	0.31	0.5	98.45	2.8	28	10
+nTChap post-processing	10	1	15	99.95	0.05	0	98.68	1.1	11	10
+nTChap post-processing	10	1	20	99.96	0.04	0	98.62	1	10	10
+nTChap post-processing	11	1	10	97.84	0.9	1.26	97.61	2.4	26	11
+nTChap post-processing	11	1	15	99.96	0.04	0	98.55	1	11	11
+nTChap post-processing	11	1	20	99.96	0.04	0	98.54	1	11	11
+nTChap post-processing	12	1	10	99.15	0.48	0.37	97.83	2.8	34	12
+nTChap post-processing	12	1	15	98.43	0.57	1	97.72	1.1	13	12
+nTChap post-processing	12	1	20	99.96	0.03	0	98.27	1	12	12
+nTChap post-processing	3	0.3	10	98.64	0.54	0.81	99.42	19.7	59	3
+nTChap post-processing	3	0.3	15	98.31	1	0.68	99.47	9.3	28	3
+nTChap post-processing	3	0.3	20	98.44	0.72	0.84	99.4	3.3	10	3
+nTChap post-processing	4	0.3	10	98.65	0.24	1.11	99.03	21.5	86	4
+nTChap post-processing	4	0.3	15	99.08	0.35	0.57	98.83	9.3	37	4
+nTChap post-processing	4	0.3	20	98.86	0.52	0.62	98.93	4.3	17	4
+nTChap post-processing	5	0.3	10	98.34	0.46	1.2	97.81	20.8	104	5
+nTChap post-processing	5	0.3	15	98.7	0.39	0.91	98.2	10	50	5
+nTChap post-processing	5	0.3	20	99.48	0.24	0.27	98.05	4.4	22	5
+nTChap post-processing	6	0.3	10	98.5	0.35	1.15	97.81	20.8	125	6
+nTChap post-processing	6	0.3	15	98.32	0.58	1.1	97.46	11.8	71	6
+nTChap post-processing	6	0.3	20	99.05	0.27	0.68	97.25	4.3	26	6
+nTChap post-processing	7	0.3	10	95.36	2.29	2.36	94	21.9	153	7
+nTChap post-processing	7	0.3	15	98.87	0.32	0.81	97.02	10.6	74	7
+nTChap post-processing	7	0.3	20	99.25	0.44	0.31	96.57	5.7	40	7
+nTChap post-processing	8	0.3	10	95.94	2.61	1.45	93.48	23.8	190	8
+nTChap post-processing	8	0.3	15	98.98	0.27	0.76	95.55	12.9	103	8
+nTChap post-processing	8	0.3	20	98.4	0.46	1.14	95.11	6.6	53	8
+nTChap post-processing	9	0.3	10	96.19	2.26	1.55	92.94	22.3	201	9
+nTChap post-processing	9	0.3	15	97.72	0.83	1.45	94.77	10.3	93	9
+nTChap post-processing	9	0.3	20	98.74	0.41	0.85	95.42	5	45	9
+nTChap post-processing	10	0.3	10	95.02	2.79	2.19	91.88	21.2	212	10
+nTChap post-processing	10	0.3	15	98.12	0.72	1.16	94.47	7.6	76	10
+nTChap post-processing	10	0.3	20	98.72	0.22	1.06	94.88	6.4	64	10
+nTChap post-processing	11	0.3	10	95.61	2.31	2.08	92.08	25.7	283	11
+nTChap post-processing	11	0.3	15	95.08	3.05	1.87	90.27	13.4	147	11
+nTChap post-processing	11	0.3	20	98.99	0.29	0.72	94.16	8.5	94	11
+nTChap post-processing	12	0.3	10	95.91	1.87	2.22	90.96	21.8	262	12
+nTChap post-processing	12	0.3	15	95.65	2.37	1.98	90.33	13	156	12
+nTChap post-processing	12	0.3	20	98.67	0.5	0.83	92.85	5.9	71	12
+nTChap post-processing	3	0.1	10	97.25	0.77	1.98	98.69	29.7	89	3
+nTChap post-processing	3	0.1	15	98.95	0.27	0.79	99.38	24.7	74	3
+nTChap post-processing	3	0.1	20	99.29	0.27	0.45	99.23	19.7	59	3
+nTChap post-processing	4	0.1	10	97.54	0.78	1.68	96.69	31	124	4
+nTChap post-processing	4	0.1	15	98.85	0.4	0.75	97.58	25	100	4
+nTChap post-processing	4	0.1	20	99.21	0.28	0.51	98.02	20.8	83	4
+nTChap post-processing	5	0.1	10	95.67	1.73	2.59	93.75	32.6	163	5
+nTChap post-processing	5	0.1	15	95.77	1.52	2.71	93.24	27.6	138	5
+nTChap post-processing	5	0.1	20	94.65	2.8	2.55	91.12	22.2	111	5
+nTChap post-processing	6	0.1	10	93.79	2.23	3.98	90.63	33.2	199	6
+nTChap post-processing	6	0.1	15	97.31	1.37	1.31	93.28	24.3	146	6
+nTChap post-processing	6	0.1	20	97.56	1.41	1.03	92.66	24.3	146	6
+nTChap post-processing	7	0.1	10	95.17	1.84	2.99	90.44	32.4	227	7
+nTChap post-processing	7	0.1	15	97.06	1.12	1.82	90.38	24.4	171	7
+nTChap post-processing	7	0.1	20	96.77	1.64	1.59	89.95	20.6	144	7
+nTChap post-processing	8	0.1	10	93.87	2.31	3.82	86.76	31.3	250	8
+nTChap post-processing	8	0.1	15	97.35	1.26	1.4	89.06	25.8	206	8
+nTChap post-processing	8	0.1	20	96.28	1.79	1.92	87.55	21.3	170	8
+nTChap post-processing	9	0.1	10	93.39	2.64	3.97	85.46	30.4	274	9
+nTChap post-processing	9	0.1	15	96.25	1.89	1.86	86.93	27	243	9
+nTChap post-processing	9	0.1	20	94.75	2.23	3.02	85.24	21.9	197	9
+nTChap post-processing	10	0.1	10	93.26	2.12	4.62	83.98	31.2	312	10
+nTChap post-processing	10	0.1	15	95.65	1.94	2.4	85.31	24.9	249	10
+nTChap post-processing	10	0.1	20	95.51	2.05	2.44	84.13	21.1	211	10
+nTChap post-processing	11	0.1	10	91.98	2.55	5.46	80.41	32	352	11
+nTChap post-processing	11	0.1	15	94.67	2.11	3.21	81.78	25.8	284	11
+nTChap post-processing	11	0.1	20	95.61	1.98	2.41	81.6	24.5	269	11
+nTChap post-processing	12	0.1	10	91.06	3.1	5.83	79.38	30.3	363	12
+nTChap post-processing	12	0.1	15	95.7	1.84	2.46	80.73	26	312	12
+nTChap post-processing	12	0.1	20	95.39	2.01	2.61	80.22	23.7	284	12
+nTChap post-processing	3	0.05	10	95.06	1.37	3.57	98.65	45	135	3
+nTChap post-processing	3	0.05	15	96.56	1.27	2.17	97.71	30	90	3
+nTChap post-processing	3	0.05	20	98.17	0.47	1.35	98.71	27	81	3
+nTChap post-processing	4	0.05	10	95.56	2.25	2.19	94.78	43.3	173	4
+nTChap post-processing	4	0.05	15	96.57	0.84	2.6	95.07	26.8	107	4
+nTChap post-processing	4	0.05	20	98.13	0.44	1.43	96.35	22.8	91	4
+nTChap post-processing	5	0.05	10	92.48	1.57	5.96	90.93	39.8	199	5
+nTChap post-processing	5	0.05	15	95.86	1.21	2.93	92.53	29.8	149	5
+nTChap post-processing	5	0.05	20	95.81	1.65	2.53	91.11	24.4	122	5
+nTChap post-processing	6	0.05	10	90.53	2.45	7.02	85.75	41.2	247	6
+nTChap post-processing	6	0.05	15	91.31	2.2	6.5	86.13	28.2	169	6
+nTChap post-processing	6	0.05	20	94.89	1.42	3.7	87.78	22.7	136	6
+nTChap post-processing	7	0.05	10	86.4	2.51	11.09	81.8	37.9	265	7
+nTChap post-processing	7	0.05	15	90.05	2.23	7.71	82.86	29	203	7
+nTChap post-processing	7	0.05	20	93	1.88	5.12	82.38	25.1	176	7
+nTChap post-processing	8	0.05	10	84.03	2.94	13.03	78.25	32.3	258	8
+nTChap post-processing	8	0.05	15	89.85	1.98	8.17	80.56	27.1	217	8
+nTChap post-processing	8	0.05	20	91.07	1.69	7.23	79.21	24	192	8
+nTChap post-processing	9	0.05	10	83.32	2.52	14.16	76.77	31.9	287	9
+nTChap post-processing	9	0.05	15	89.38	2.66	7.95	77.06	30.1	271	9
+nTChap post-processing	9	0.05	20	89.34	2.59	8.07	76.37	23.2	209	9
+nTChap post-processing	10	0.05	10	84.2	3.48	12.32	73.05	34	340	10
+nTChap post-processing	10	0.05	15	86.57	3.49	9.94	74.39	30.1	301	10
+nTChap post-processing	10	0.05	20	88.8	3.23	7.97	74.01	25	250	10
+nTChap post-processing	11	0.05	10	79.62	4.39	15.99	68.8	29	319	11
+nTChap post-processing	11	0.05	15	84.9	3.15	11.95	70.33	26	286	11
+nTChap post-processing	11	0.05	20	88.51	3.66	7.82	71.26	23	253	11
+nTChap post-processing	12	0.05	10	80.01	3.04	16.94	66.1	31.7	380	12
+nTChap post-processing	12	0.05	15	85.65	3.72	10.63	68.7	26.3	315	12
+nTChap post-processing	12	0.05	20	84.69	4.2	11.11	66.18	24	288	12

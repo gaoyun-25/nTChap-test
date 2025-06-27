@@ -1,0 +1,12 @@
+mainPath	/home/gaoyun/poly/data/potato/
+longReads	longReadsOnt.chr02
+shortReads	variants.chr02
+reference	speciesName:potato	refName:potato_chr02.fa
+genomeSize	46102915
+threads	16
+max_ID	0.05
+min_len	0
+min_ovl	0.3
+min_sim	0.3
+min_overlap	30
+min_ovl_len	5

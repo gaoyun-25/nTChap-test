@@ -1,0 +1,20 @@
+mainPath	/home/gaoyun/poly/data/potato_chr1/
+longReadMethod	ont
+shortReadMethod	paired
+#coverages	10	15	20
+reference	speciesName:potato_chr1
+haplogeneratorModel	Poisson
+#mutation	0.03	0.01	0.003	0.001	0.0005
+#Ploidy	3	4	5	6	7	8	9	10	11	12
+coverages	10
+mutation	0.0005
+Ploidy	3
+dosage	"[0.69,0.31,0]"	"[0.57,0.26,0.17,0]"	"[0.50,0.23,0.14,0.13,0]"	"[0.50,0.23,0.14,0.13,0,0]"	"[0.45,0.2,0.14,0.12,0.08,0.01,0]"	"[0.45,0.2,0.14,0.12,0.08,0.01,0,0]"	"[0.35,0.2,0.14,0.1,0.09,0.08,0.03,0.01,0]"	"[0.3,0.18,0.14,0.13,0.09,0.08,0.03,0.03,0.02,0]"	"[0.3,0.18,0.14,0.13,0.09,0.08,0.03,0.03,0.02,0,0]"	"[0.3,0.18,0.14,0.1,0.09,0.08,0.03,0.03,0.03,0.02,0,0]"
+genomeSize	3020000
+threads	16
+max_ID	0.05
+min_len	0
+min_ovl	0.3
+min_sim	0.3
+min_overlap	30
+min_ovl_len	5
