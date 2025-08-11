@@ -131,7 +131,7 @@ def launchPhasingCleaningChr(PhaseResultFolder, readSNPsPath, max_ID, min_len, m
     start = timeit.default_timer()
     outputLog = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()) + "\t"
 
-    command_py = "/home/gaoyun/poly/code/phasing/process_reads/GB54/cleaning_phase_chr_nx.py"
+    command_py = "/home/gaoyun/poly/code/phasing/final_process_data/real/GB54/scripts/cleaning_phase_chr_nx.py"
     p = subprocess.Popen(["python3",command_py, PhaseResultFolder, readSNPsPath, max_ID, min_len, min_ovl, min_sim, min_overlap, min_ovl_len,percentKept,deduplicate], stderr=subprocess.PIPE, stdout=subprocess.PIPE, universal_newlines=True)
     outputLog += "COMMAND: " + " ".join(["python3", command_py, PhaseResultFolder, readSNPsPath, max_ID, min_len, min_ovl, min_sim, min_overlap, min_ovl_len]) + "\n\n"
 
@@ -339,7 +339,7 @@ if __name__ == "__main__":
             for long_read in longReadsName:
                 testName=speciesName+long_read
                 longReadFastQFileDir = os.path.join(mainPath,"rawData/longReads",long_read+".fastq.gz")
-                outdir = os.path.join(predictionPath, testName,"Phased", "Cleaned_chr_f_d_99")
+                outdir = os.path.join(predictionPath, testName,"Phased", "Cleaned_chr")
                 for clean_way in clean_ways:
                     consensusClusterPath = os.path.join(outdir, phasedName+"_cleaned_"+clean_way+"_variants.tsv")
                     readClusterPath = os.path.join(outdir, phasedName+"_cleaned_"+clean_way+"_clustered_read_name.tsv")
